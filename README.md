@@ -4,7 +4,7 @@
 
 
 
-> projeto desenvolvido com HTML e CSS, para que que eu pudesse praticar mais sobre flexbox
+## 📂 projeto desenvolvido com HTML e CSS, para que que eu pudesse praticar mais sobre flexbox
 
 #
 
